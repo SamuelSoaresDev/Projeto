@@ -56,17 +56,30 @@ body * {
   line-height: 24px;
   text-align: center;
 }
-
-#sobremim p {
-   display: flex;
-  font-weight: 400;
-   text-align:justify;
-  
+/* profile */
+#profilesobre {
+  text-align: center;
+  padding: 24px;
 }
-h3{
+
+#profilesobre img {
+  width: 112px;
+}
+
+#profilesobre p {
+  font-weight: 500;
+  line-height: 24px;
+  text-align: center;
+}
+#sobremim p {
+  display: flex;
+  font-weight: 400;
+  text-align: justify;
+}
+h3 {
   line-height: 24px;
   font-weight: 580;
-   text-align: center;
+  text-align: center;
   padding: 16px;
 }
 /* switch */
